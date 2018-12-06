@@ -1,0 +1,28 @@
+10 heartbeat time series in this directory: 5 young subjects
+(denoted as Y1.txt, Y2.txt, etc) and 5 elderly subjects (O1.txt,
+O2.txt, etc).
+
+Each file contains 1 column data of interbeat interval (in second).
+The length of the recording is approximately 2 hours for each subject.
+
+For detailed description of the database, see 
+    Iyengar N, Peng C-K, Morin R, Goldberger AL, Lipsitz LA. 
+    Age-related alterations in the fractal scaling of cardiac
+    interbeat interval dynamics. Am J Physiol 1996;271:1078-1084.
+
+These 10 data sets form a sub-set of the complete database studied in
+the above article.
+
+
+PLEASE NOTE: THIS COLLECTION OF HUMAN HEART RATE AND GAIT DATABASES
+WAS CONSTRUCTED AS A TEACHING RESOURCE FOR THE NECSI INTENSIVE COURSE
+(OCTOBER 1999): "THE MODERN SCIENCE OF HUMAN AGING"
+(www.necsi.org). AS SUCH, THIS SPECIFIC "MINI-COLLECTION" IS NOT
+INTENDED FOR BASIC RESEARCH/PUBLICATIONS. HOWEVER, IT MAY BE USEFUL IN
+OTHER CLASSROOM OR TUTORIAL SETTINGS, AND FOR SELF-GUIDED EXPLORATIONS
+INTO THE WORLD OF BIOLOGIC COMPLEXITY. FOR CURRENTLY AVAILABLE
+RESEARCH DATABASES, PLEASE CONSULT THE WEBSITE OF THE RESEARCH
+RESOURCE FOR COMPLEX PHYSIOLOGIC SIGNALS (www.physionet.org).
+
+
+
